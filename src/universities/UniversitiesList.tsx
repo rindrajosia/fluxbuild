@@ -12,7 +12,7 @@ function UniversitytList({ universities }: UniversityListProps) {
 
 
   return (
-    <div className="container mx-auto px-20">
+    <div className="mx-auto px-20">
           <div style={{backgroundColor:"rgb(255, 255, 255)"}}>
             <div className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-4 pt-20 pb-10 lg:pt-40 lg:pb-20" style={{cursor: "auto"}}>
 
